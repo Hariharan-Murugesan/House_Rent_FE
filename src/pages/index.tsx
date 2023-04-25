@@ -2,7 +2,7 @@
 export default function Home() {
   return (
     <>
-      <div>login page</div>
+      <div>login page style</div>
     </>
   )
 }
